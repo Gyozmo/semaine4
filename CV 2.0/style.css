@@ -1,0 +1,60 @@
+
+/* general */
+
+
+
+/* header */
+
+header h2, header h3 {
+margin: 9%;
+}
+
+header img {
+  margin: 3%;
+}
+
+/* projet */
+.projet {
+  margin: 3% 0 3% 0;
+}
+
+
+/* details */
+#details p {
+  font-size: 25px;
+}
+
+#details h2 {
+  margin: 6% 0;
+}
+
+
+/* body */
+.body {
+  margin: 5% 1%;
+}
+
+
+/* details */
+
+/*center*/
+#center h5 {
+font-size: 30px;
+}
+
+#center h2 {
+  font-size: 35px;
+  margin: 5%;
+}
+/*portfolio*/
+#portfolio {
+  font-size: 35px;
+  margin: 5%;
+  text-decoration: none;
+
+}
+/*citation*/
+
+.blockquote {
+  font-size: 50px;
+}
